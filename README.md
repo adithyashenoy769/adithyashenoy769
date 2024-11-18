@@ -1,22 +1,20 @@
 # 👋 Hello, I'm Adithya!
 
-Welcome to my GitHub profile! I'm a software developer with a passion for creating elegant solutions to complex problems. 
-Whether it's coding, designing user interfaces, or diving into machine learning algorithms, I'm always excited to tackle new challenges.
+Welcome to my GitHub profile! I'm an engineering student with a passion for creating elegant solutions to complex problems. 
+Whether it's coding or designing interactive user interfaces, I'm always excited to tackle new challenges.
 
 ## 💼 What I Do
 
-- 🔭 Currently working on a React project to streamline data visualization
-- 🌱 Learning about neural networks and natural language processing
-- 💬 Ask me about JavaScript frameworks, UI/UX design, or Python development
+- 🌱 Currently learning about Java Spring framework specializing in Springboot
 - 📫 How to reach me: nnm22cs010@nmamit.in
 
 ## 🚀 My Skills
 
-- JavaScript (React, Node.js)
-- Python (Django, Flask)
-- HTML5, CSS3, SASS
-- UI/UX Design (Figma, Sketch)
-- Machine Learning (TensorFlow, PyTorch)
+- Java(SpringBoot)
+- SQL
+- HTML5, CSS3
+- UI/UX Design (FlutterFlow)
+
 
 ## 🌟 Let's Connect
 
